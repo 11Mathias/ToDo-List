@@ -45,4 +45,4 @@ Bem-vindo ao **ToDoApp**! Este é um aplicativo simples de lista de tarefas (to-
 
 ## Contribuições 📌
 
-Sinta-se à vontade para contribuir com o projeto! Se você encontrar um bug ou
+Sinta-se à vontade para contribuir com o projeto! Se você encontrar um bug ou tiver uma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
